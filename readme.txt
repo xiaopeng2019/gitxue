@@ -1,3 +1,3 @@
 Git is a version control system.
 Git is free software.
-新增加了一行
+删除了一行
