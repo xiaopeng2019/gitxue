@@ -1,2 +1,3 @@
 新增的文件
-修改了文件aaa.txt
+修改了文件aaa.txt 并add
+再次修改了文件aaa.txt 未 add
