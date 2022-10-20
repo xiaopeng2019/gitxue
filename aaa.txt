@@ -1,2 +1,3 @@
 新增的文件
 修改了文件aaa.txt 并add
+新增加了一行 git status 查看git 状态
