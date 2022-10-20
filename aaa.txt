@@ -1,4 +1,5 @@
 新增的文件
 修改了文件aaa.txt 并add
 新增加了一行 git status 查看git 状态
-git checkout yihang
+git checkout yihangssh
+添加一个远程库 git remote add origin git@github.com:邮箱名字/远程仓库名字.git
